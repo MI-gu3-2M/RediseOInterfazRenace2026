@@ -1,0 +1,12 @@
+{
+  "title": "VÉRTIKA — Gestión deportiva",
+  "description": "Gestiona gimnasios con funciones integrales para socios, membresías, acceso biométrico, ventas y reportes en una interfaz profesional y segura.",
+  "language": "es",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
